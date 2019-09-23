@@ -3,10 +3,10 @@ let ctx = canv.getContext('2d');
 
 
 canv.width = window.innerWidth;
-cenv.height = window.innerHeight;
+canv.height = window.innerHeight;
 
 
-document.body.appendChild(canvOne);
+document.body.appendChild(canv);
 
 
 init();
